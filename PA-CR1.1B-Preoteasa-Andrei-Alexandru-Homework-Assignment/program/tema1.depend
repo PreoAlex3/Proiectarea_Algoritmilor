@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1654180892 source:c:\users\andre\onedrive\desktop\pa\anul1 sem2\pa-cr1.1b-preoteasa-andrei-alexandru-homework-assignment\tema_metoda_1\knapsack.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1654183329 source:c:\users\andre\onedrive\desktop\pa\anul1 sem2\pa-cr1.1b-preoteasa-andrei-alexandru-homework-assignment\tema_metoda_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"knapsack.h"
+
+1654183329 c:\users\andre\onedrive\desktop\pa\anul1 sem2\pa-cr1.1b-preoteasa-andrei-alexandru-homework-assignment\tema_metoda_1\knapsack.h
+
